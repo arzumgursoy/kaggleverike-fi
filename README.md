@@ -1,2 +1,2 @@
-# kaggleverike-fi
+# kaggleverikesfi
 Kaggle Verilerinin Keşfi 
